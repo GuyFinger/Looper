@@ -1,0 +1,78 @@
+.sound-box-off{
+  width: 32%;
+  padding-bottom: 32%; /* Same as width, sets height */
+  margin-bottom: 2%; /* (100-32*3)/2 */
+  position: relative;
+    background-color: gray;
+    -webkit-box-shadow: 0px 0px 23px -4px #0000007a; 
+box-shadow: 0px 0px 23px -4px #0000007a;
+  }
+
+  
+  .sound-box-on
+  {
+    width: 32%;
+    padding-bottom: 32%; /* Same as width, sets height */
+    margin-bottom: 2%; /* (100-32*3)/2 */
+    position: relative;
+      background-color: forestgreen;
+      -webkit-box-shadow: inset 0px 0px 23px 5px #0000007a; 
+      box-shadow: inset 0px 0px 23px 5px #0000007a;
+    }
+  
+.id0{
+background-image: url('../svg/reddit-alien-brands.svg');
+background-repeat: no-repeat;
+background-size: 50px 50px;
+background-position: center;
+
+}
+    
+.id1{
+  background-image: url('../svg/drum-solid.svg');
+  background-repeat: no-repeat;
+  background-size: 50px 50px;
+  background-position: center;}
+    
+.id2{
+  background-image: url('../svg/guitar-solid.svg');
+  background-repeat: no-repeat;
+  background-size: 50px 50px;
+  background-position: center;}
+    
+.id3{
+  background-image: url('../svg/hat-cowboy-solid.svg');
+  background-repeat: no-repeat;
+  background-size: 50px 50px;
+  background-position: center;}
+    
+.id4{
+  background-image: url('../svg/drum-solid.svg');
+  background-repeat: no-repeat;
+  background-size: 50px 50px;
+  background-position: center;}
+    
+.id5{
+  background-image: url('../svg/box-solid.svg');
+  background-repeat: no-repeat;
+  background-size: 50px 50px;
+  background-position: center;}
+    
+.id6{
+  background-image: url('../svg/optin-monster-brands.svg');
+  background-repeat: no-repeat;
+  background-size: 50px 50px;
+  background-position: center;}
+    
+.id7{
+  background-image: url('../svg/drum-solid.svg');
+  background-repeat: no-repeat;
+  background-size: 50px 50px;
+  background-position: center;}
+    
+.id8{
+  background-image: url('../svg/keyboard-regular.svg');
+  background-repeat: no-repeat;
+  background-size: 50px 50px;
+  background-position: center;}
+    
